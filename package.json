@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "@types/node": "^18.11.18",
+    "discord.js": "^14.7.0",
+    "mongoose": "^6.8.4"
+  }
+}
